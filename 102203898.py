@@ -20,7 +20,7 @@ app.config["MAIL_DEFAULT_SENDER"] = "igenerator57@gmail.com"
 mail = Mail(app)
 
 OUTPUT_DIR = os.path.join("static", "dataset")
-API_KEY = "AIzaSyBJYxR5ghwIb7LBm4kNopkbLW3GGou0mqM"
+API_KEY = "AIzaSyCQoQdg-fgA342LRnbzfvqgYKDNzMGyr6o"
 SEARCH_ENGINE_ID = "d533e24d362934c7c"
 
 
